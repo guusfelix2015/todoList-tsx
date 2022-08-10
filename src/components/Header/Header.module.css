@@ -1,0 +1,7 @@
+.header {
+  padding: 7rem 7rem;
+  background: var(--gray-700);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
